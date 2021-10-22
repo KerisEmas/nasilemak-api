@@ -1,0 +1,36 @@
+{
+    "Nasilemak": [
+        {
+            "id": 0,
+            "name": "Nasi lemak panas",
+            "restaurant": "Kedai Janda",
+            "web": "www.jandafemes.com",
+            "description": "Sedap tapi mahal",
+            "ingredients": ["Nasi Lemak", "Kopi", "Janda"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number": "12",
+                    "postcode": "34321",
+                    "state": "Kedah"
+                }
+             ]
+        },
+        {
+            "id": 1,
+            "name": "Nasi lemak Padu",
+            "restaurant": "Kedai Dara",
+            "web": "www.DaraMeletops.com",
+            "description": "Sedap tapi sikit",
+            "ingredients": ["Nasi Lemak", "Juice", "Dara"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number": "4",
+                    "postcode": "56210",
+                    "state": "KL"
+                }
+             ]
+        }
+    ]
+}
