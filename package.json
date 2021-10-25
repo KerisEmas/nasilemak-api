@@ -1,0 +1,22 @@
+{
+  "name": "nasilemak-api",
+  "version": "1.0.0",
+  "description": "Kedai Nasi Lemak API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerisEmas/nasilemak-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KerisEmas/nasilemak-api/issues"
+  },
+  "homepage": "https://github.com/KerisEmas/nasilemak-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
